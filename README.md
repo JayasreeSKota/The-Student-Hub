@@ -1,4 +1,10 @@
 # The-Student-Hub-JS
+
+![ alt text ](https://img.shields.io/badge/visualstudiocode-deepskyblue?logo=visualstudiocode)
+![ alt text ](https://img.shields.io/badge/html5-orange?logo=html5)
+![ alt text ](https://img.shields.io/badge/javascript-yellow?logo=javascript)
+![ alt text ](https://img.shields.io/badge/bootstrap-mediumpurple?logo=bootstrap)
+
 Introducing The Student Hub! 🎓💻
 
 This JavaScript-powered platform revolutionizes student name management. Seamlessly create, organize, and update profiles. Track progress, monitor achievements, and foster collaboration. 📚🚀📊
